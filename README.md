@@ -7,9 +7,7 @@ https://www.dropbox.com/scl/fo/dwrnsxj00g2isgwd1z7yi/h?rlkey=1blp0vw316t7kk168c9
 
 Ci-dessous, voici les formats PNG :
 
-![AccueilSpaceQuest](https://github.com/DHylan97/spacequestmockup/assets/86422525/fe3fda7a-a1af-4f51-8b5a-69db2e9d24ed)
-
-![L'infinité de l'Univers les plus lus](https://github.com/DHylan97/spacequestmockup/assets/86422525/72e8a76b-2282-4d4a-86b3-8f730a860af7)
+![AccueilSpaceQuest](https://github.com/DHylan97/spacequestmockup/assets/86422525/fe3fda7a-a1af-4f51-8b5a-69db2e9d24ed) ![L'infinité de l'Univers les plus lus](https://github.com/DHylan97/spacequestmockup/assets/86422525/72e8a76b-2282-4d4a-86b3-8f730a860af7)
 
 ![La Terre les plus récents](https://github.com/DHylan97/spacequestmockup/assets/86422525/82dc626c-2ed9-4b36-a69b-16a6f5209407)
 
